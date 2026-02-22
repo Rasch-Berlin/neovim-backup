@@ -1,0 +1,6 @@
+# .gitignore
+.netrwhist
+undo/
+backups/
+swaps/
+/lazy-lock.json # Optional: Manche behalten es, um Versionen zu fixieren.
