@@ -6,6 +6,7 @@ return {
       ensure_installed = {
         "astro-language-server",
         "bash-language-server",
+	"beautysh",
         "codebook",
         "css-lsp",
         "docker-language-server",
